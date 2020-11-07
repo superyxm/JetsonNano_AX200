@@ -11,7 +11,7 @@ Then replace this file in /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/bt
 
   sudo cp -r btusb.ko /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/btusb.ko
   
- Finally,run install_ax200_driver.sh
+Finally,run install_ax200_driver.sh
  
   bash install_ax200_driver.sh
 
