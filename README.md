@@ -8,4 +8,6 @@ Fitst, back up the file  /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/btu
 sudo cp -r /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/btusb.ko /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/btusb.ko.bak
 
 Then replace this file in /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/btusb.ko.
+
 sudo cp -r btusb.ko /lib/modules/4.9.140-tegra/kernel/drivers/bluetooth/btusb.ko
+
